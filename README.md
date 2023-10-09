@@ -1,6 +1,8 @@
 # PLANET
 Render Stars/Planet... with Vite, Typescript and Threejs
 
+![image](https://github.com/keithCuniah/planet-threejs/assets/88380932/a4a9a4da-19f2-4a7d-b1ff-a3894ab16fc0)
+
 In this example, Sun and Planets (also satellite) are considered as `Sphere` and stars are `Dot`.
 
 ## UML
